@@ -1,4 +1,4 @@
-require File.expand_path("../lib/jss/version", __FILE__)
+require File.expand_path("../lib/accountingjs-rails/version", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "accountingjs-rails"
