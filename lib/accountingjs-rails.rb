@@ -1,6 +1,6 @@
 require "accountingjs-rails/version"
 
-module Accounting
+module Accountingjs
   module Rails
     require "accountingjs-rails/engine"
   end
