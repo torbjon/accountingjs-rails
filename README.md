@@ -17,7 +17,7 @@ Then `bundle install`.
 
 Add the following to your `app/assets/javascripts/application.js`:
 
-    //= require accounting
+    //= require accountingjs
 
 
 Then you can:
